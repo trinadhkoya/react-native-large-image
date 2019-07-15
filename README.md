@@ -9,7 +9,7 @@
  
 
  <tr>
-    <td align="center"><img src="https://github.com/trinadhkoya/react-native-large-image/blob/master/screenshots/1.png" width="200px;height:300px"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/trinadhkoya/react-native-large-image/master/screenshots/1.png" width="200px;height:300px"/></td>
   <td align="center"><img src="https://github.com/trinadhkoya/react-native-large-image/blob/master/screenshots/2.png" width="200px;height:300px"/></td>
  <td align="center"><img src="https://github.com/trinadhkoya/react-native-large-image/blob/master/screenshots/3.png" width="200px;height:300px"/></td>
         <td align="center"><img src="https://github.com/trinadhkoya/react-native-large-image/blob/master/screenshots/4.png" width="200px;height:300px"/></td>
